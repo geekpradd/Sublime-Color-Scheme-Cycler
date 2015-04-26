@@ -1,0 +1,11 @@
+[
+  {
+    "id": "tools",
+    "children": [
+      {
+        "caption": "Cycle Color Schemes",
+        "command": "scheme_cycler"
+      }
+    ]
+  }
+]
